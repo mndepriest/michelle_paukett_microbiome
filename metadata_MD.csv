@@ -1,0 +1,377 @@
+﻿Sample,Plant_no,Day,Experiment,Treatment,shoot_composite_score,shoot_dis,root_composite_score,root_dis,soil
+F5D1_S265,5,1,Field,U,0.95,High,0.625,High,E
+F5D11_S251,5,11,Field,U,0.95,High,0.625,High,E
+F5D14_S222,5,14,Field,U,0.95,High,0.625,High,E
+F5D3_S248,5,3,Field,U,0.95,High,0.625,High,E
+F5D5_S76,5,5,Field,U,0.95,High,0.625,High,E
+F5D7_S196,5,7,Field,U,0.95,High,0.625,High,E
+F5D9_S202,5,9,Field,U,0.95,High,0.625,High,E
+F8D1_S193,8,1,Field,U,0.225,Low,0.5,Low,E
+F8D11_S274,8,11,Field,U,0.225,Low,0.5,Low,E
+F8D14_S245,8,14,Field,U,0.225,Low,0.5,Low,E
+F8D3_S271,8,3,Field,U,0.225,Low,0.5,Low,E
+F8D5_S70,8,5,Field,U,0.225,Low,0.5,Low,E
+F8D7_S219,8,7,Field,U,0.225,Low,0.5,Low,E
+F8D9_S225,8,9,Field,U,0.225,Low,0.5,Low,E
+F10D1_S242,10,1,Field,U,0,Low,0.225,Low,E
+F10D14_S199,10,14,Field,U,0,Low,0.225,Low,E
+F10D7_S268,10,7,Field,U,0,Low,0.225,Low,E
+F11D1_S229,11,1,Field,W,0.95,High,0.95,High,E
+F11D11_S215,11,11,Field,W,0.95,High,0.95,High,E
+F11D14_S281,11,14,Field,W,0.95,High,0.95,High,E
+F11D3_S212,11,3,Field,W,0.95,High,0.95,High,E
+F11D5_S73,11,5,Field,W,0.95,High,0.95,High,E
+F11D7_S255,11,7,Field,W,0.95,High,0.95,High,E
+F11D9_S261,11,9,Field,W,0.95,High,0.95,High,E
+F13D1_S206,13,1,Field,W,0.95,High,0.95,High,E
+F13D11_S165,13,11,Field,W,0.95,High,0.95,High,E
+F13D14_S258,13,14,Field,W,0.95,High,0.95,High,E
+F13D3_S284,13,3,Field,W,0.95,High,0.95,High,E
+F13D5_S78,13,5,Field,W,0.95,High,0.95,High,E
+F13D7_S232,13,7,Field,W,0.95,High,0.95,High,E
+F13D9_S238,13,9,Field,W,0.95,High,0.95,High,E
+F14D1_S278,14,1,Field,W,0.175,Low,0.9,High,E
+F14D14_S235,14,14,Field,W,0.175,Low,0.9,High,E
+F14D7_S209,14,7,Field,W,0.175,Low,0.9,High,E
+F15D1_S195,15,1,Field,S,0,Low,0.5,Low,E
+F15D14_S247,15,14,Field,S,0,Low,0.5,Low,E
+F15D7_S221,15,7,Field,S,0,Low,0.5,Low,E
+F16D1_S241,16,1,Field,S,0.95,High,0.675,High,E
+F16D11_S227,16,11,Field,S,0.95,High,0.675,High,E
+F16D14_S198,16,14,Field,S,0.95,High,0.675,High,E
+F16D3_S224,16,3,Field,S,0.95,High,0.675,High,E
+F16D5_S74,16,5,Field,S,0.95,High,0.675,High,E
+F16D7_S267,16,7,Field,S,0.95,High,0.675,High,E
+F16D9_S273,16,9,Field,S,0.95,High,0.675,High,E
+F18D1_S218,18,1,Field,S,0.9,High,0.95,High,E
+F18D11_S204,18,11,Field,S,0.9,High,0.95,High,E
+F18D14_S270,18,14,Field,S,0.9,High,0.95,High,E
+F18D3_S201,18,3,Field,S,0.9,High,0.95,High,E
+F18D5_S79,18,5,Field,S,0.9,High,0.95,High,E
+F18D7_S244,18,7,Field,S,0.9,High,0.95,High,E
+F18D9_S250,18,9,Field,S,0.9,High,0.95,High,E
+F20D1_S230,20,1,Field,F,0.95,High,0.95,High,E
+F20D11_S216,20,11,Field,F,0.95,High,0.95,High,E
+F20D14_S282,20,14,Field,F,0.95,High,0.95,High,E
+F20D3_S213,20,3,Field,F,0.95,High,0.95,High,E
+F20D5_S80,20,5,Field,F,0.95,High,0.95,High,E
+F20D7_S256,20,7,Field,F,0.95,High,0.95,High,E
+F20D9_S262,20,9,Field,F,0.95,High,0.95,High,E
+F21D1_S253,21,1,Field,F,0,Low,0.4,Low,E
+F21D11_S239,21,11,Field,F,0,Low,0.4,Low,E
+F21D14_S210,21,14,Field,F,0,Low,0.4,Low,E
+F21D3_S236,21,3,Field,F,0,Low,0.4,Low,E
+F21D5_S75,21,5,Field,F,0,Low,0.4,Low,E
+F21D7_S279,21,7,Field,F,0,Low,0.4,Low,E
+F21D9_S285,21,9,Field,F,0,Low,0.4,Low,E
+F22D1_S207,22,1,Field,F,0.175,Low,0.275,Low,E
+F22D14_S259,22,14,Field,F,0.175,Low,0.275,Low,E
+F22D7_S233,22,7,Field,F,0.175,Low,0.275,Low,E
+25D1_S1,25,1,Greenhouse,U,0.775,High,0.725,High,A
+25D14_S45,25,14,Greenhouse,U,0.775,High,0.725,High,A
+25D7_S23,25,7,Greenhouse,U,0.775,High,0.725,High,A
+G25D1_S301,25,1,Growth Room,U,0.95,High,0.95,High,A
+G25D11_S312,25,11,Growth Room,U,0.95,High,0.95,High,A
+G25D14_S319,25,14,Growth Room,U,0.95,High,0.95,High,A
+G25D3_S297,25,3,Growth Room,U,0.95,High,0.95,High,A
+G25D7_S352,25,7,Growth Room,U,0.95,High,0.95,High,A
+G25D9_S381,25,9,Growth Room,U,0.95,High,0.95,High,A
+27D1_S2,27,1,Greenhouse,U,0.95,High,0.95,High,A
+27D11_S158,27,11,Greenhouse,U,0.95,High,0.95,High,A
+27D13_S179,27,13,Greenhouse,U,0.95,High,0.95,High,A
+27D14_S46,27,14,Greenhouse,U,0.95,High,0.95,High,A
+27D3_S88,27,3,Greenhouse,U,0.95,High,0.95,High,A
+27D5_S109,27,5,Greenhouse,U,0.95,High,0.95,High,A
+27D7_S25,27,7,Greenhouse,U,0.95,High,0.95,High,A
+27D9_S137,27,9,Greenhouse,U,0.95,High,0.95,High,A
+F27D1_S277,27,1,Field,L,0.775,High,0.725,High,F
+F27D11_S263,27,11,Field,L,0.775,High,0.725,High,F
+F27D14_S234,27,14,Field,L,0.775,High,0.725,High,F
+F27D3_S260,27,3,Field,L,0.775,High,0.725,High,F
+F27D5_S77,27,5,Field,L,0.775,High,0.725,High,F
+F27D7_S208,27,7,Field,L,0.775,High,0.725,High,F
+F27D9_S214,27,9,Field,L,0.775,High,0.725,High,F
+G27D1_S228,27,1,Growth Room,U,0,Low,0.95,High,A
+G27D11_S323,27,11,Growth Room,U,0,Low,0.95,High,A
+G27D14_S330,27,14,Growth Room,U,0,Low,0.95,High,A
+G27D3_S308,27,3,Growth Room,U,0,Low,0.95,High,A
+G27D7_S363,27,7,Growth Room,U,0,Low,0.95,High,A
+G27D9_S334,27,9,Growth Room,U,0,Low,0.95,High,A
+28D1_S3,28,1,Greenhouse,U,0.175,Low,0.775,High,A
+28D14_S47,28,14,Greenhouse,U,0.175,Low,0.775,High,A
+28D7_S24,28,7,Greenhouse,U,0.175,Low,0.775,High,A
+F28D1_S205,28,1,Field,L,0.95,High,0.675,High,F
+F28D11_S286,28,11,Field,L,0.95,High,0.675,High,F
+F28D14_S257,28,14,Field,L,0.95,High,0.675,High,F
+F28D3_S283,28,3,Field,L,0.95,High,0.675,High,F
+F28D5_S71,28,5,Field,L,0.95,High,0.675,High,F
+F28D7_S231,28,7,Field,L,0.95,High,0.675,High,F
+F28D9_S237,28,9,Field,L,0.95,High,0.675,High,F
+29D1_S4,29,1,Greenhouse,U,0.95,High,0.775,High,A
+29D10_S151,29,10,Greenhouse,U,0.95,High,0.775,High,A
+29D11_S159,29,11,Greenhouse,U,0.95,High,0.775,High,A
+29D12_S172,29,12,Greenhouse,U,0.95,High,0.775,High,A
+29D13_S180,29,13,Greenhouse,U,0.95,High,0.775,High,A
+29D14_S48,29,14,Greenhouse,U,0.95,High,0.775,High,A
+29D2_S81,29,2,Greenhouse,U,0.95,High,0.775,High,A
+29D3_S89,29,3,Greenhouse,U,0.95,High,0.775,High,A
+29D4_S102,29,4,Greenhouse,U,0.95,High,0.775,High,A
+29D5_S110,29,5,Greenhouse,U,0.95,High,0.775,High,A
+29D6_S123,29,6,Greenhouse,U,0.95,High,0.775,High,A
+29D7_S26,29,7,Greenhouse,U,0.95,High,0.775,High,A
+29D8_S130,29,8,Greenhouse,U,0.95,High,0.775,High,A
+29D9_S138,29,9,Greenhouse,U,0.95,High,0.775,High,A
+F29D1_S254,29,1,Field,L,0,Low,0.5,Low,F
+F29D14_S211,29,14,Field,L,0,Low,0.5,Low,F
+F29D7_S280,29,7,Field,L,0,Low,0.5,Low,F
+G29D1_S290,29,1,Growth Room,U,0.225,Low,0.45,Low,A
+G29D14_S341,29,14,Growth Room,U,0.225,Low,0.45,Low,A
+G29D7_S374,29,7,Growth Room,U,0.225,Low,0.45,Low,A
+G31D1_S240,31,1,Growth Room,C,0.95,High,0.9,High,B
+G31D11_S335,31,11,Growth Room,C,0.95,High,0.9,High,B
+G31D14_S342,31,14,Growth Room,C,0.95,High,0.9,High,B
+G31D3_S320,31,3,Growth Room,C,0.95,High,0.9,High,B
+G31D7_S375,31,7,Growth Room,C,0.95,High,0.9,High,B
+G31D9_S346,31,9,Growth Room,C,0.95,High,0.9,High,B
+32D1_S5,32,1,Greenhouse,C,0.175,Low,0.5,Low,B
+32D10_S152,32,10,Greenhouse,C,0.175,Low,0.5,Low,B
+32D11_S160,32,11,Greenhouse,C,0.175,Low,0.5,Low,B
+32D12_S173,32,12,Greenhouse,C,0.175,Low,0.5,Low,B
+32D13_S181,32,13,Greenhouse,C,0.175,Low,0.5,Low,B
+32D14_S49,32,14,Greenhouse,C,0.175,Low,0.5,Low,B
+32D2_S82,32,2,Greenhouse,C,0.175,Low,0.5,Low,B
+32D3_S90,32,3,Greenhouse,C,0.175,Low,0.5,Low,B
+32D4_S103,32,4,Greenhouse,C,0.175,Low,0.5,Low,B
+32D5_S111,32,5,Greenhouse,C,0.175,Low,0.5,Low,B
+32D6_S124,32,6,Greenhouse,C,0.175,Low,0.5,Low,B
+32D7_S27,32,7,Greenhouse,C,0.175,Low,0.5,Low,B
+32D8_S131,32,8,Greenhouse,C,0.175,Low,0.5,Low,B
+32D9_S139,32,9,Greenhouse,C,0.175,Low,0.5,Low,B
+33D1_S6,33,1,Greenhouse,C,0.45,Low,0.05,Low,B
+33D14_S50,33,14,Greenhouse,C,0.45,Low,0.05,Low,B
+33D7_S28,33,7,Greenhouse,C,0.45,Low,0.05,Low,B
+G33D1_S313,33,1,Growth Room,C,0.95,High,0.95,High,B
+G33D11_S324,33,11,Growth Room,C,0.95,High,0.95,High,B
+G33D14_S331,33,14,Growth Room,C,0.95,High,0.95,High,B
+G33D3_S309,33,3,Growth Room,C,0.95,High,0.95,High,B
+G33D7_S364,33,7,Growth Room,C,0.95,High,0.95,High,B
+G33D9_S67,33,9,Growth Room,C,0.95,High,0.95,High,B
+34D1_S7,34,1,Greenhouse,C,0.725,High,0.275,Low,B
+34D11_S161,34,11,Greenhouse,C,0.725,High,0.275,Low,B
+34D13_S182,34,13,Greenhouse,C,0.725,High,0.275,Low,B
+34D14_S51,34,14,Greenhouse,C,0.725,High,0.275,Low,B
+34D3_S91,34,3,Greenhouse,C,0.725,High,0.275,Low,B
+34D5_S112,34,5,Greenhouse,C,0.725,High,0.275,Low,B
+34D7_S29,34,7,Greenhouse,C,0.725,High,0.275,Low,B
+34D9_S140,34,9,Greenhouse,C,0.725,High,0.275,Low,B
+G34D1_S302,34,1,Growth Room,C,0,Low,0.675,High,B
+G34D14_S353,34,14,Growth Room,C,0,Low,0.675,High,B
+G34D7_S291,34,7,Growth Room,C,0,Low,0.675,High,B
+35D1_S8,35,1,Greenhouse,L,0.6,High,0.275,Low,C
+35D14_S52,35,14,Greenhouse,L,0.6,High,0.275,Low,C
+35D7_S30,35,7,Greenhouse,L,0.6,High,0.275,Low,C
+G35D1_S252,35,1,Growth Room,L,0.05,Low,0.95,High,C
+G35D11_S347,35,11,Growth Room,L,0.05,Low,0.95,High,C
+G35D14_S354,35,14,Growth Room,L,0.05,Low,0.95,High,C
+G35D3_S332,35,3,Growth Room,L,0.05,Low,0.95,High,C
+G35D7_S292,35,7,Growth Room,L,0.05,Low,0.95,High,C
+G35D9_S358,35,9,Growth Room,L,0.05,Low,0.95,High,C
+36D1_S9,36,1,Greenhouse,L,0.675,High,0.325,Low,C
+36D10_S153,36,10,Greenhouse,L,0.675,High,0.325,Low,C
+36D11_S162,36,11,Greenhouse,L,0.675,High,0.325,Low,C
+36D12_S174,36,12,Greenhouse,L,0.675,High,0.325,Low,C
+36D13_S183,36,13,Greenhouse,L,0.675,High,0.325,Low,C
+36D14_S53,36,14,Greenhouse,L,0.675,High,0.325,Low,C
+36D2_S83,36,2,Greenhouse,L,0.675,High,0.325,Low,C
+36D3_S92,36,3,Greenhouse,L,0.675,High,0.325,Low,C
+36D4_S104,36,4,Greenhouse,L,0.675,High,0.325,Low,C
+36D5_S113,36,5,Greenhouse,L,0.675,High,0.325,Low,C
+36D6_S125,36,6,Greenhouse,L,0.675,High,0.325,Low,C
+36D7_S31,36,7,Greenhouse,L,0.675,High,0.325,Low,C
+36D8_S132,36,8,Greenhouse,L,0.675,High,0.325,Low,C
+36D9_S141,36,9,Greenhouse,L,0.675,High,0.325,Low,C
+F36D1_S266,36,1,Field,H,0.775,High,0.45,Low,G
+F36D14_S223,36,14,Field,H,0.775,High,0.45,Low,G
+F36D7_S197,36,7,Field,H,0.775,High,0.45,Low,G
+G36D1_S314,36,1,Growth Room,L,0.45,Low,0.825,High,C
+G36D14_S365,36,14,Growth Room,L,0.45,Low,0.825,High,C
+G36D7_S303,36,7,Growth Room,L,0.45,Low,0.825,High,C
+F37D1_S194,37,1,Field,H,0.95,High,0.95,High,G
+F37D11_S275,37,11,Field,H,0.95,High,0.95,High,G
+F37D14_S246,37,14,Field,H,0.95,High,0.95,High,G
+F37D3_S272,37,3,Field,H,0.95,High,0.95,High,G
+F37D7_S220,37,7,Field,H,0.95,High,0.95,High,G
+F37D9_S226,37,9,Field,H,0.95,High,0.95,High,G
+G37D1_S325,37,1,Growth Room,L,0.05,Low,0.95,High,C
+G37D11_S336,37,11,Growth Room,L,0.05,Low,0.95,High,C
+G37D14_S343,37,14,Growth Room,L,0.05,Low,0.95,High,C
+G37D3_S321,37,3,Growth Room,L,0.05,Low,0.95,High,C
+G37D7_S376,37,7,Growth Room,L,0.05,Low,0.95,High,C
+G37D9_S68,37,9,Growth Room,L,0.05,Low,0.95,High,C
+38D1_S10,38,1,Greenhouse,L,0.95,High,0.95,High,C
+38D13_S184,38,13,Greenhouse,L,0.95,High,0.95,High,C
+38D14_S54,38,14,Greenhouse,L,0.95,High,0.95,High,C
+38D3_S93,38,3,Greenhouse,L,0.95,High,0.95,High,C
+38D5_S114,38,5,Greenhouse,L,0.95,High,0.95,High,C
+38D7_S32,38,7,Greenhouse,L,0.95,High,0.95,High,C
+38D9_S142,38,9,Greenhouse,L,0.95,High,0.95,High,C
+F38D1_S217,38,1,Field,H,0.95,High,0.95,High,G
+F38D11_S203,38,11,Field,H,0.95,High,0.95,High,G
+F38D14_S269,38,14,Field,H,0.95,High,0.95,High,G
+F38D3_S200,38,3,Field,H,0.95,High,0.95,High,G
+F38D5_S72,38,5,Field,H,0.95,High,0.95,High,G
+F38D7_S243,38,7,Field,H,0.95,High,0.95,High,G
+F38D9_S249,38,9,Field,H,0.95,High,0.95,High,G
+39D1_S11,39,1,Greenhouse,H,0,Low,0.175,Low,D
+39D14_S55,39,14,Greenhouse,H,0,Low,0.175,Low,D
+39D7_S33,39,7,Greenhouse,H,0,Low,0.175,Low,D
+G39D1_S326,39,1,Growth Room,H,0.775,High,0.4,Low,D
+G39D14_S377,39,14,Growth Room,H,0.775,High,0.4,Low,D
+G39D7_S315,39,7,Growth Room,H,0.775,High,0.4,Low,D
+40D1_S12,40,1,Greenhouse,H,0.175,Low,0.45,Low,D
+40D10_S154,40,10,Greenhouse,H,0.175,Low,0.45,Low,D
+40D11_S164,40,11,Greenhouse,H,0.175,Low,0.45,Low,D
+40D12_S175,40,12,Greenhouse,H,0.175,Low,0.45,Low,D
+40D13_S185,40,13,Greenhouse,H,0.175,Low,0.45,Low,D
+40D14_S56,40,14,Greenhouse,H,0.175,Low,0.45,Low,D
+40D2_S84,40,2,Greenhouse,H,0.175,Low,0.45,Low,D
+40D3_S94,40,3,Greenhouse,H,0.175,Low,0.45,Low,D
+40D4_S105,40,4,Greenhouse,H,0.175,Low,0.45,Low,D
+40D5_S115,40,5,Greenhouse,H,0.175,Low,0.45,Low,D
+40D6_S126,40,6,Greenhouse,H,0.175,Low,0.45,Low,D
+40D7_S34,40,7,Greenhouse,H,0.175,Low,0.45,Low,D
+40D8_S133,40,8,Greenhouse,H,0.175,Low,0.45,Low,D
+40D9_S143,40,9,Greenhouse,H,0.175,Low,0.45,Low,D
+41D1_S13,41,1,Greenhouse,H,0.175,Low,0.825,High,D
+41D13_S186,41,13,Greenhouse,H,0.175,Low,0.825,High,D
+41D14_S57,41,14,Greenhouse,H,0.175,Low,0.825,High,D
+41D3_S144,41,3,Greenhouse,H,0.175,Low,0.825,High,D
+41D5_S116,41,5,Greenhouse,H,0.175,Low,0.825,High,D
+41D7_S35,41,7,Greenhouse,H,0.175,Low,0.825,High,D
+G41D1_S337,41,1,Growth Room,H,0.125,Low,0.95,High,D
+G41D11_S348,41,11,Growth Room,H,0.125,Low,0.95,High,D
+G41D14_S355,41,14,Growth Room,H,0.125,Low,0.95,High,D
+G41D3_S333,41,3,Growth Room,H,0.125,Low,0.95,High,D
+G41D7_S293,41,7,Growth Room,H,0.125,Low,0.95,High,D
+G41D9_S69,41,9,Growth Room,H,0.125,Low,0.95,High,D
+G42D1_S264,42,1,Growth Room,H,0.675,High,0.625,High,D
+G42D11_S359,42,11,Growth Room,H,0.675,High,0.625,High,D
+G42D14_S366,42,14,Growth Room,H,0.675,High,0.625,High,D
+G42D3_S344,42,3,Growth Room,H,0.675,High,0.625,High,D
+G42D7_S304,42,7,Growth Room,H,0.675,High,0.625,High,D
+G42D9_S370,42,9,Growth Room,H,0.675,High,0.625,High,D
+43D1_S14,43,1,Greenhouse,F,0.775,High,0.4,Low,A
+43D14_S58,43,14,Greenhouse,F,0.775,High,0.4,Low,A
+43D7_S36,43,7,Greenhouse,F,0.775,High,0.4,Low,A
+G43D1_S276,43,1,Growth Room,F,0.775,High,0.775,High,A
+G43D11_S371,43,11,Growth Room,F,0.775,High,0.775,High,A
+G43D14_S378,43,14,Growth Room,F,0.775,High,0.775,High,A
+G43D3_S356,43,3,Growth Room,F,0.775,High,0.775,High,A
+G43D7_S316,43,7,Growth Room,F,0.775,High,0.775,High,A
+G43D9_S382,43,9,Growth Room,F,0.775,High,0.775,High,A
+G44D1_S349,44,1,Growth Room,F,0.95,High,0.9,High,A
+G44D11_S360,44,11,Growth Room,F,0.95,High,0.9,High,A
+G44D14_S367,44,14,Growth Room,F,0.95,High,0.9,High,A
+G44D3_S345,44,3,Growth Room,F,0.95,High,0.9,High,A
+G44D7_S305,44,7,Growth Room,F,0.95,High,0.9,High,A
+G44D9_S298,44,9,Growth Room,F,0.95,High,0.9,High,A
+45D1_S15,45,1,Greenhouse,F,0.05,Low,0.775,High,A
+45D10_S155,45,10,Greenhouse,F,0.05,Low,0.775,High,A
+45D11_S166,45,11,Greenhouse,F,0.05,Low,0.775,High,A
+45D12_S176,45,12,Greenhouse,F,0.05,Low,0.775,High,A
+45D13_S187,45,13,Greenhouse,F,0.05,Low,0.775,High,A
+45D14_S59,45,14,Greenhouse,F,0.05,Low,0.775,High,A
+45D2_S85,45,2,Greenhouse,F,0.05,Low,0.775,High,A
+45D3_S147,45,3,Greenhouse,F,0.05,Low,0.775,High,A
+45D4_S106,45,4,Greenhouse,F,0.05,Low,0.775,High,A
+45D5_S117,45,5,Greenhouse,F,0.05,Low,0.775,High,A
+45D6_S127,45,6,Greenhouse,F,0.05,Low,0.775,High,A
+45D7_S37,45,7,Greenhouse,F,0.05,Low,0.775,High,A
+45D8_S134,45,8,Greenhouse,F,0.05,Low,0.775,High,A
+45D9_S145,45,9,Greenhouse,F,0.05,Low,0.775,High,A
+46D1_S16,46,1,Greenhouse,F,0.775,High,0.775,High,A
+46D13_S188,46,13,Greenhouse,F,0.775,High,0.775,High,A
+46D14_S60,46,14,Greenhouse,F,0.775,High,0.775,High,A
+46D3_S97,46,3,Greenhouse,F,0.775,High,0.775,High,A
+46D5_S118,46,5,Greenhouse,F,0.775,High,0.775,High,A
+46D7_S38,46,7,Greenhouse,F,0.775,High,0.775,High,A
+46D9_S146,46,9,Greenhouse,F,0.775,High,0.775,High,A
+G46D1_S338,46,1,Growth Room,F,0.05,Low,0.6,High,A
+G46D14_S294,46,14,Growth Room,F,0.05,Low,0.6,High,A
+G46D7_S327,46,7,Growth Room,F,0.05,Low,0.6,High,A
+47D1_S17,47,1,Greenhouse,S,0.175,Low,0.4,Low,A
+47D14_S61,47,14,Greenhouse,S,0.175,Low,0.4,Low,A
+47D7_S39,47,7,Greenhouse,S,0.175,Low,0.4,Low,A
+G47D1_S350,47,1,Growth Room,S,0.55,High,0.5,Low,A
+G47D14_S306,47,14,Growth Room,S,0.55,High,0.5,Low,A
+G47D7_S339,47,7,Growth Room,S,0.55,High,0.5,Low,A
+48D1_S18,48,1,Greenhouse,S,0.95,High,0.95,High,A
+48D13_S189,48,13,Greenhouse,S,0.95,High,0.95,High,A
+48D14_S62,48,14,Greenhouse,S,0.95,High,0.95,High,A
+48D3_S98,48,3,Greenhouse,S,0.95,High,0.95,High,A
+48D5_S119,48,5,Greenhouse,S,0.95,High,0.95,High,A
+48D7_S40,48,7,Greenhouse,S,0.95,High,0.95,High,A
+49D1_S19,49,1,Greenhouse,S,0.35,Low,0.725,High,A
+49D10_S156,49,10,Greenhouse,S,0.35,Low,0.725,High,A
+49D11_S168,49,11,Greenhouse,S,0.35,Low,0.725,High,A
+49D12_S177,49,12,Greenhouse,S,0.35,Low,0.725,High,A
+49D13_S190,49,13,Greenhouse,S,0.35,Low,0.725,High,A
+49D14_S63,49,14,Greenhouse,S,0.35,Low,0.725,High,A
+49D2_S86,49,2,Greenhouse,S,0.35,Low,0.725,High,A
+49D3_S99,49,3,Greenhouse,S,0.35,Low,0.725,High,A
+49D4_S107,49,4,Greenhouse,S,0.35,Low,0.725,High,A
+49D5_S120,49,5,Greenhouse,S,0.35,Low,0.725,High,A
+49D6_S128,49,6,Greenhouse,S,0.35,Low,0.725,High,A
+49D7_S41,49,7,Greenhouse,S,0.35,Low,0.725,High,A
+49D8_S135,49,8,Greenhouse,S,0.35,Low,0.725,High,A
+49D9_S148,49,9,Greenhouse,S,0.35,Low,0.725,High,A
+G49D1_S167,49,1,Growth Room,S,0.675,High,0.9,High,A
+G49D11_S169,49,11,Growth Room,S,0.675,High,0.9,High,A
+G49D14_S295,49,14,Growth Room,S,0.675,High,0.9,High,A
+G49D3_S368,49,3,Growth Room,S,0.675,High,0.9,High,A
+G49D7_S328,49,7,Growth Room,S,0.675,High,0.9,High,A
+G49D9_S299,49,9,Growth Room,S,0.675,High,0.9,High,A
+G50D1_S373,50,1,Growth Room,S,0.95,High,0.95,High,A
+G50D11_S171,50,11,Growth Room,S,0.95,High,0.95,High,A
+G50D14_S296,50,14,Growth Room,S,0.95,High,0.95,High,A
+G50D3_S369,50,3,Growth Room,S,0.95,High,0.95,High,A
+G50D7_S329,50,7,Growth Room,S,0.95,High,0.95,High,A
+G50D9_S322,50,9,Growth Room,S,0.95,High,0.95,High,A
+51D1_S20,51,1,Greenhouse,W,0,Low,0.775,High,A
+51D14_S64,51,14,Greenhouse,W,0,Low,0.775,High,A
+51D7_S42,51,7,Greenhouse,W,0,Low,0.775,High,A
+G51D1_S361,51,1,Growth Room,W,0.725,High,0.95,High,A
+G51D11_S372,51,11,Growth Room,W,0.725,High,0.95,High,A
+G51D14_S379,51,14,Growth Room,W,0.725,High,0.95,High,A
+G51D3_S357,51,3,Growth Room,W,0.725,High,0.95,High,A
+G51D7_S317,51,7,Growth Room,W,0.725,High,0.95,High,A
+G51D9_S310,51,9,Growth Room,W,0.725,High,0.95,High,A
+52D1_S21,52,1,Greenhouse,W,0.225,Low,0.775,High,A
+52D10_S157,52,10,Greenhouse,W,0.225,Low,0.775,High,A
+52D11_S170,52,11,Greenhouse,W,0.225,Low,0.775,High,A
+52D12_S178,52,12,Greenhouse,W,0.225,Low,0.775,High,A
+52D13_S150,52,13,Greenhouse,W,0.225,Low,0.775,High,A
+52D14_S65,52,14,Greenhouse,W,0.225,Low,0.775,High,A
+52D2_S87,52,2,Greenhouse,W,0.225,Low,0.775,High,A
+52D3_S100,52,3,Greenhouse,W,0.225,Low,0.775,High,A
+52D4_S108,52,4,Greenhouse,W,0.225,Low,0.775,High,A
+52D5_S121,52,5,Greenhouse,W,0.225,Low,0.775,High,A
+52D6_S129,52,6,Greenhouse,W,0.225,Low,0.775,High,A
+52D7_S43,52,7,Greenhouse,W,0.225,Low,0.775,High,A
+52D8_S136,52,8,Greenhouse,W,0.225,Low,0.775,High,A
+52D9_S149,52,9,Greenhouse,W,0.225,Low,0.775,High,A
+G52D1_S362,52,1,Growth Room,W,0.725,High,0.45,Low,A
+G52D14_S318,52,14,Growth Room,W,0.725,High,0.45,Low,A
+G52D7_S351,52,7,Growth Room,W,0.725,High,0.45,Low,A
+53D1_S22,53,1,Greenhouse,W,0.45,Low,0.775,High,A
+53D13_S163,53,13,Greenhouse,W,0.45,Low,0.775,High,A
+53D14_S66,53,14,Greenhouse,W,0.45,Low,0.775,High,A
+53D3_S101,53,3,Greenhouse,W,0.45,Low,0.775,High,A
+53D5_S122,53,5,Greenhouse,W,0.45,Low,0.775,High,A
+53D7_S44,53,7,Greenhouse,W,0.45,Low,0.775,High,A
+G53D1_S289,53,1,Growth Room,W,0.95,High,0.95,High,A
+G53D11_S300,53,11,Growth Room,W,0.95,High,0.95,High,A
+G53D14_S307,53,14,Growth Room,W,0.95,High,0.95,High,A
+G53D3_S380,53,3,Growth Room,W,0.95,High,0.95,High,A
+G53D7_S340,53,7,Growth Room,W,0.95,High,0.95,High,A
+G53D9_S311,53,9,Growth Room,W,0.95,High,0.95,High,A
